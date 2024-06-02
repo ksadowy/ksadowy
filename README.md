@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 - [Email](mailto:krzysztof.sadowy01@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/krzysztof-sadowy-622b27295)
 
-![Hamster](https://ksadowy.github.io/hamster.github.io/goofyahh-hamster.gif)
+<div style="position: fixed; bottom: 10px; right: 10px;">
+  <img src="https://ksadowy.github.io/hamster.github.io/goofyahh-hamster.gif" alt="Hamster GIF" width="200" height="200">
+</div>
