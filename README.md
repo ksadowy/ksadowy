@@ -14,19 +14,15 @@ Here are some ideas to get you started:
 -->
 
 # Hello 👋
-<!---
-![Profile views](https://gpvc.arturio.dev/[ksadowy])
---->
+![Profile views](https://gpvc.arturio.dev/ksadowy)
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, C#
-- **Frameworks:** TensorFlow, Keras
+- **Languages:** Python, C#, SQL, JavaScript, MATLAB
+- **Frameworks:** TensorFlow, Keras, Node.js
 - **Tools:** Git
 
-<!---
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[ksadowy]&show_icons=true&theme=light)
---->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ksadowy&show_icons=true&theme=dark)
 
 ## 📫 Contact
 - [Email](mailto:krzysztof.sadowy01@gmail.com)
