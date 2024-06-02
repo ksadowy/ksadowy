@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 ---
 <div style="position: fixed; bottom: 10px; left: 10px;">
-  <img src="https://ksadowy.github.io/hamster.github.io/index.html" style="width: 200px; height: 200px;">
+  <img src="https://ksadowy.github.io/hamster.github.io/chomik.png" style="width: 200px; height: 200px;">
   <div class="hamster-eye"></div>
 </div>
