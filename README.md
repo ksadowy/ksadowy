@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 --->
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python
-- **Frameworks:** React
+- **Languages:** Python, C#
+- **Frameworks:** TensorFlow, Keras
 - **Tools:** Git
 
 <!---
@@ -32,8 +32,4 @@ Here are some ideas to get you started:
 - [Email](mailto:krzysztof.sadowy01@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/krzysztof-sadowy-622b27295)
 
----
-<div style="position: fixed; bottom: 10px; left: 10px;">
-  <img src="https://ksadowy.github.io/hamster.github.io/chomik.png" style="width: 200px; height: 200px;">
-  <div class="hamster-eye"></div>
-</div>
+![Hamster](https://ksadowy.github.io/hamster.github.io/goofyahh-hamster.gif)
