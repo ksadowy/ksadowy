@@ -32,23 +32,5 @@ Here are some ideas to get you started:
 ---
 
 <div style="position: fixed; bottom: 10px; left: 10px;">
-  <div style="position: relative;">
-    <img src="https://ksadowy.github.io/hamster.github.io/chomik.png" style="width: 200px; height: 200px;">
-    <div id="eye" style="position: absolute; width: 8px; height: 8px; background-color: black; border-radius: 50%;"></div>
-  </div>
-  <script>
-    const eye = document.getElementById('eye');
-    document.addEventListener('mousemove', (e) => {
-      moveEye(eye, e.clientX, e.clientY);
-    });
-
-    function moveEye(eye, mouseX, mouseY) {
-      const rect = eye.getBoundingClientRect();
-      const eyeX = rect.left + rect.width / 2;
-      const eyeY = rect.top + rect.height / 2;
-      const angle = Math.atan2(mouseY - eyeY, mouseX - eyeX);
-      const distance = 10;
-      eye.style.transform = `translate(${Math.cos(angle) * distance}px, ${Math.sin(angle) * distance}px)`;
-    }
-  </script>
+  <iframe src="https://ksadowy.github.io/hamster.github.io/" width="300" height="300" scrolling="no" style="border: none;"></iframe>
 </div>
