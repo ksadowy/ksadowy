@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello 👋
-![Profile views](https://gpvc.arturio.dev/ksadowy)
+![Profile Views](https://komarev.com/ghpvc/?username=ksadowy)
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, C#, SQL, JavaScript, MATLAB
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ksadowy&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksadowy)](https://git.io/streak-stats)
 
 ## 📫 Contact
 - [Email](mailto:krzysztof.sadowy01@gmail.com)
