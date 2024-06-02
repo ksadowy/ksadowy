@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 -->
 
 # Hello 👋
-
+<!---
 ![Profile views](https://gpvc.arturio.dev/[ksadowy])
+--->
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python
 - **Frameworks:** React
 - **Tools:** Git
 
+<!---
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[ksadowy]&show_icons=true&theme=light)
+--->
 
 ## 📫 Contact
 - [Email](mailto:krzysztof.sadowy01@gmail.com)
