@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/krzysztof-sadowy-622b27295)
 
 <div style="position: fixed; bottom: 10px; left: 10px;">
-  <iframe src="https://ksadowy.github.com/hamster/" width="300" height="300" scrolling="no" style="border: none;"></iframe>
+  <img src="https://ksadowy.github.io/hamster/hamster.png" id="hamster" style="width: 100px; height: 100px;">
+  <script src="https://ksadowy.github.io/hamster/hamster.js"></script>
 </div>
