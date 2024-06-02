@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 <div style="position: fixed; bottom: 10px; left: 10px;">
   <img src="https://ksadowy.github.io/hamster.github.io/chomik.png" id="hamster" style="width: 100px; height: 100px;">
+  <div id="eye" style="position: absolute; width: 20px; height: 20px; background-color: black; border-radius: 50%;"></div>
   <script src="https://ksadowy.github.io/hamster.github.io/hamster.js"></script>
 </div>
