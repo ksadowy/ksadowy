@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ---
 
 <div style="position: fixed; bottom: 10px; left: 10px;">
-  <iframe src="https://ksadowy/hamster.github.io/" width="300" height="300" scrolling="no" style="border: none;"></iframe>
+  <iframe src="https://ksadowy.github.io/hamster.github.io/" width="300" height="300" scrolling="no" style="border: none;"></iframe>
 </div>
