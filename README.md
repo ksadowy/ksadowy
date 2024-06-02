@@ -17,14 +17,10 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/[ksadowy])
 
-[Check out my interactive hamster!](https://ksadowy.github.io/hamster/)
-
-I'm a developer who loves to create and explore.
-
 ## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, [add your languages]
-- **Frameworks:** React, Node.js, [add your frameworks]
-- **Tools:** Git, Docker, [add your tools]
+- **Languages:** Python
+- **Frameworks:** React
+- **Tools:** Git
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[ksadowy]&show_icons=true&theme=light)
@@ -32,3 +28,7 @@ I'm a developer who loves to create and explore.
 ## 📫 Contact
 - [Email](mailto:krzysztof.sadowy01@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/krzysztof-sadowy-622b27295)
+
+<div style="position: fixed; bottom: 10px; left: 10px;">
+  <iframe src="https://your-username.github.io/interactive-hamster/" width="300" height="300" scrolling="no" style="border: none;"></iframe>
+</div>
