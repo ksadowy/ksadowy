@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=ksadowy)
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, C#, SQL, JavaScript, MATLAB
-- **Frameworks:** TensorFlow, Keras, Node.js
+- **Languages:** Python, SQL, MATLAB, JavaScript
+- **Frameworks:** TensorFlow, Flask, OpenCV, BeautifulSoup4
 - **Tools:** Git
 
 ## 📈 GitHub Stats
