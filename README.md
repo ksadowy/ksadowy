@@ -44,8 +44,12 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/krzysztof-sadowy-622b27295" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ksadowy&show_icons=true&locale=en" alt="ksadowy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksadowy&" alt="ksadowy" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksadowy&show_icons=true&locale=en&layout=compact" alt="ksadowy" /></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/krzysztof-sadowy-622b27295" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="mailto:ksadowy01@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-Mail?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Gmail" /></a></p>
+
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ksadowy&" alt="ksadowy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ksadowy&show_icons=true&locale=en" alt="ksadowy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksadowy&show_icons=true&locale=en&layout=compact" alt="ksadowy" /></p>
