@@ -29,5 +29,9 @@ Here are some ideas to get you started:
 - [Email](mailto:krzysztof.sadowy01@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/krzysztof-sadowy-622b27295)
 
----
-![HamsterGIF](https://ksadowy.github.io/hamster.github.io/goofyahh-hamster.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksadowy/ksadowy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksadowy/ksadowy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ksadowy/ksadowy/output/github-snake.svg" />
+</picture>
